@@ -23,7 +23,3 @@ The numbers and words are printed in LCD format.
 |_. |.| ./  ./
 |_|,|_|,/_.,/_.
 ```
-
-### Hints
-- We use Hamcrest as assertion library. If you don't know the syntax, you can look it up here: https://wiki.wdf.sap.corp/wiki/download/attachments/1588440504/JAVA_Hamcrest_cheatsheet.pdf
-
